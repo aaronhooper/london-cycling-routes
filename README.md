@@ -4,8 +4,3 @@ A map displaying TFL's current cycling routes in London. [View it
 live!](https://london-cycle-routes.netlify.app)
 
 ![street map of london showing cycling routes](./map.png)
-
-## Setup
-
-Sign up to Mapbox and generate an access token, and paste in
-`access-token.js`, then open `index.html` in your browser!
